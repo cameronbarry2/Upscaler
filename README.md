@@ -4,7 +4,7 @@ This custom node splits an image into tiles, runs Florence captioning per tile, 
 
 ## Installation
 
-Clone this repo into your `ComfyUI/custom_nodes` directory:
+Clone this repo into your `ComfyUI/custom_nodes` directory::
 
 ```bash
 git clone https://github.com/yourusername/ComfyUI_FlorenceTileCaptioner.git
